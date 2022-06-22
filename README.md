@@ -1,1 +1,2 @@
-# Cryptocurrencies
+# Project Overview
+Create a report of cryptocurrencies for Accountability Accounting, a prominent investment bank, in order to help them offer a new cryptocurrency investment portfolio for its customers. The report will include cryptocurrencies trading in the market and how they can be grouped to create a classification system for this new investment. The data will need to be processed to fit the machine learning models. Since no known output is know unsupervised learning will be utilized.
